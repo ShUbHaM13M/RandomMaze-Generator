@@ -145,7 +145,8 @@ while isRunning:
 
         # time.sleep(0.50)
         # clock.tick(60)
-        draw()
+    clock.tick(30)
+    draw()
         
 
 pygame.quit()
